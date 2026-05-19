@@ -16,9 +16,7 @@
 🎓 3rd Year Computer Science Engineering Student  
 💻 Passionate about Web Development & Software Engineering  
 🌱 Currently learning DSA, React & Open Source  
-⚡ Interested in Frontend Development and Product-Based Companies  
-📍 India  
-🎯 Goal: Become a top software engineer & entrepreneur  
+⚡ Interested in Frontend Development  
 
 ---
 
