@@ -46,21 +46,18 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js,html,css,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,js,html,css,git,github,vscode)](https://skillicons.dev)
 
 </div>
 
 ---
-
-# 📊 GitHub Stats
-
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fahadali268&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fahadali268&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadali268&layout=compact&theme=github_dark&hide_border=true" height="180"/>
+<img width="39.5%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fahadali268&layout=compact&theme=tokyonight"/>
 
 </div>
 
