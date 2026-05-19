@@ -76,9 +76,6 @@
 ## 🎮 Advance XO Game
 An advanced version of the classic XO strategy game with improved gameplay and UI.
 
-## ♻ Plastic Usage Tracker
-Tracks monthly plastic consumption and suggests eco-friendly alternatives.
-
 ## 🌐 Portfolio Website
 A responsive personal portfolio website built using HTML, CSS & JavaScript.
 
