@@ -58,11 +58,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahadali268&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=fahadali268&color=blueviolet&style=for-the-badge)
-
-</div>
