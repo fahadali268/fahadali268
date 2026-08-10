@@ -12,7 +12,7 @@
 
 # 🚀 About Me
 
-🎓 3rd Year Computer Science Engineering Student  
+🎓 4th Year Computer Science Engineering Student  
 💻 Passionate about Web Development & Software Engineering  
 🌱 Currently learning DSA, React & Open Source  
 ⚡ Interested in Frontend Development
@@ -44,16 +44,6 @@
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js,html,css,git,github,vscode)](https://skillicons.dev)
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadali268&theme=tokyonight&hide_border=true"/>
 
 </div>
 
